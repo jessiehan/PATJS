@@ -13,6 +13,7 @@ process.stdin.on('readable', function() {
 
  
 
+
 function formatNumber(str){
 	var isN=false;
 	if(str.indexOf('-')>=0){
